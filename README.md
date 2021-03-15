@@ -14,4 +14,4 @@
  <pre> 🛺  &nbsp;  Kotlin and everything mobile. Love how the mobile is so different from the 🕸️  &nbsp; 
            and how you can deliver amazing value in such a small screen.</pre>
  <pre> 🧑‍🚀   &nbsp;  SEO and how to market a product . Check me out on the gram 
-           [#oatmeupbuttercup](https://www.instagram.com/oatmeupbuttercup/)
+           [oatmeupbuttercup](https://www.instagram.com/oatmeupbuttercup/)
