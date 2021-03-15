@@ -1,17 +1,11 @@
-- 👋 Hi, I’m @jenpin
+- [![Jennifer-Pinto-12.jpg](https://i.postimg.cc/1tz284R9/Jennifer-Pinto-12.jpg)](https://postimg.cc/SXwD5Sz5) 🐿️  Hello  I’m Jennifer 🐼
 
-![GitHub Logo]()
-Hi. I’m Jennifer. 
 I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. 
-I work at REA as a developer and have an acient (3 year old site) - theeconomicsocio.com
+I work at REA as a developer and have an ancient (3 year old site) - [theeconomicsocio] (https://www.theeconomicsocio.com/)
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  - Android development and love everything that's shiny and new! 
 
-<!---
-jenpin/jenpin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning -
+ 🛺 Kotlin and everything mobile. Love how the mobile is so different from the 🕸️ and how you can deliver amazing value in such a small screen.
+ 🧑‍🚀  SEO and how to market a product . Check me out on the gram  [#oatmeupbuttercup] (https://www.instagram.com/oatmeupbuttercup/)
